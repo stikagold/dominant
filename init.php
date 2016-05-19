@@ -8,3 +8,4 @@ session_start();
  */
 require_once 'lib/stdlib.php';
 echo "Do something for testing git";
+echo "<br>Next Step";
