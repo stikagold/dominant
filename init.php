@@ -7,3 +7,4 @@ session_start();
  * Time: 10:36 PM
  */
 require_once 'lib/stdlib.php';
+echo "Do something for testing git";
